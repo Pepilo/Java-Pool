@@ -29,6 +29,5 @@ public abstract class Weapon {
         this.melee = melee;
     }
 
-    public void attack() {
-    }
+    public void attack();
 }
