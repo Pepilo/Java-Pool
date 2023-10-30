@@ -29,5 +29,10 @@ public abstract class Weapon {
         this.melee = melee;
     }
 
+<<<<<<< HEAD
     public abstract void attack();
 }
+=======
+    public void attack();
+}
+>>>>>>> 1b78ccf3965c491c222d6062d5a08ccdbb5141f2
