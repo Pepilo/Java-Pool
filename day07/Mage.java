@@ -1,10 +1,5 @@
 public class Mage extends Character {
 
-    protected int life = 70;
-    protected int agility = 10;
-    protected int strength = 3;
-    protected int wit = 10;
-
     public Mage(String name) {
         super(name, "Mage");
         this.life = 70;
